@@ -1,4 +1,4 @@
-# Blockchain for humans
+![Blockchain for humans](http://joyle.com.br/imagens/blockchain-for-humans.png)
 
 ### An ultra-simplified explanation  :thumbsup:
 
@@ -9,10 +9,8 @@
 Lets start talking a bit about TRUST!
 > I trust everyone. It's the devil inside the person I don't trust. (The italian job)
 
-
-
-Real world explanation
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sollicitudin eget massa vitae volutpat. Curabitur in augue neque. Praesent ornare tortor volutpat elit convallis suscipit. Morbi ullamcorper justo neque, et gravida nulla facilisis id. Fusce tempor iaculis tellus in iaculis. Curabitur dictum vestibulum pretium. Proin maximus lectus porttitor posuere ultrices. Etiam porta metus at arcu congue, eget dignissim tortor lobortis. Vivamus condimentum sem in nunc vestibulum, non viverra dui tempor. Aenean id augue sapien. Praesent sagittis ipsum id elit auctor pellentesque. 
+Real world example
+> Think about your family. Think about all moments that you have been shared. At some point, your coolest uncle asks if you remember that trip to planet Mars. "It was awesome, wasn't it?" he asks. You, confused, start to ask yourself if this trip has happened ever. You ask to your mom, your dad, your brother, sister, cousing. None of them has any knowledge about this memory. Since all your relatives share same memories than you, you choose to trust in the majority instead of your uncle alone. 
 
 Wikipedia says
 > A blockchain is a distributed database that is used to maintain a continuously growing list of records, called blocks. Each block contains a timestamp and a link to a previous block.[...] By design, blockchains are inherently resistant to modification of the data. Once recorded, the data in any given block cannot be altered retroactively without the alteration of all subsequent blocks and the collusion of the network. 
