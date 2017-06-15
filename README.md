@@ -17,17 +17,6 @@ For that reason, researchers started to work on a way to transform the kilogram 
 > Entities can be corrupted. Concepts cannot!
 
 With that been said, the next question is: what is the base unit for business?
-
-The answer is **TRUST**!
-
-> I trust everyone. It's the devil inside the person I don't trust. (The Italian job) 
-
-As simple as it sounds, trust is the biggest gap when it comes to make business. Think about it: why do we sign contracts? Shouldn't "I give you my word" be enogh? Another example: why do we have banks? Why do we need a centralized institution saying how much cash each one of us has available?
-
-> "Here, take this $50.000,00 dollars' loan. Give me your word that you will pay me back and we are good." said no bank ever. 
-
-***
-With that been said, the next question is: what is the base unit for business?
 There anwser is TRUST!
 > I trust everyone. It's the devil inside the person I don't trust. (The italian job)
 
