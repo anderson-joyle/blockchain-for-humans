@@ -35,4 +35,7 @@ Let's see a real-world example:
 See, you and your family have been implementing distributed trust before it was cool.
 
 ## So, how does blockchain works?
-Comming soon.
+
+Wikipedia says
+> A blockchain is a distributed database that is used to maintain a continuously growing list of records, called blocks. Each block contains a timestamp and a link to a previous block.[...] By design, blockchains are inherently resistant to modification of the data. Once recorded, the data in any given block cannot be altered retroactively without the alteration of all subsequent blocks and the collusion of the network.   
+
