@@ -6,7 +6,7 @@
 <i>Primarily written for my own benefit, but hopefully helpful to someone else as well. Here I try to make them stick in to your mind (and maybe mine) by explaining them in the simplest way possible. Contributions are always welcome.</i>
 ***
 ## Introduction
-Let's start this explanation talking about something crucial for our lives: the [kilogram](https://en.wikipedia.org/wiki/Kilogram). Bear with me! It will make sense in a minute.
+Let's start this explanation talking about something crucial for our lives: ~~likes on Facebook~~ the [kilogram](https://en.wikipedia.org/wiki/Kilogram). Bear with me! It will make sense in a minute.
 
 The kilogram is the base unit of mass, meaning that everything related to weighting will be measured upon it. This unit makes possible that people to define amounts of something without misunderstandings, once the kilogram is a common language for this purpose. So, when you order 3kg of bananas, you know exactly what you are asking for and simply trust in the seller.
 
@@ -34,8 +34,17 @@ Let's see a real-world example:
 
 See, you and your family have been implementing distributed trust before it was cool.
 
-## So, how does blockchain works?
+## Ok, but what is a blockchain?
 
 Wikipedia says
 > A blockchain is a distributed database that is used to maintain a continuously growing list of records, called blocks. Each block contains a timestamp and a link to a previous block.[...] By design, blockchains are inherently resistant to modification of the data. Once recorded, the data in any given block cannot be altered retroactively without the alteration of all subsequent blocks and the collusion of the network.   
+
+So, that's it! Thanks for your...
+What? Too technical? Ok, let me give you an example without any technical term (database, records, blocks, timestamp).
+
+In paralel universe, Apple and Samsung has merged into a single company and released a new version of iGalaxy phone. Being a fanboy, you save a place in the queue to be on of 100 persons to buy it.
+
+## So, how does blockchain work?
+
+
 
