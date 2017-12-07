@@ -28,23 +28,20 @@ At the moment we were forced to create institutions to centralize the trust, it 
 
 Shouldn't trust be decentralized among the parties and become a concept?
 
-
 Let's see a real-world example:
 > Think about your family. Think about all moments that you've been shared. At some point, your coolest uncle asks if you remember that trip to planet Mars. "It was awesome, wasn't it?" he asks. You, confused, start to ask yourself if this trip has happened ever. You ask to your mom, your dad, your brother, sister, cousin. None of them has any knowledge about this memory. Since all your relatives share same memories than you, you choose to trust in the majority instead of your uncle alone. 
 
 See, you and your family have been implementing distributed trust before it was cool.
 
-## Ok, but what is a blockchain?
+## Ok, but what is blockchain?
 
 Wikipedia says
 > A blockchain is a distributed database that is used to maintain a continuously growing list of records, called blocks. Each block contains a timestamp and a link to a previous block.[...] By design, blockchains are inherently resistant to modification of the data. Once recorded, the data in any given block cannot be altered retroactively without the alteration of all subsequent blocks and the collusion of the network.   
 
 So, that's it! Thanks for your...
-What? Too technical? Ok, let me give you an example without any technical term (database, records, blocks, timestamp).
+What? Too technical? Ok, let me give you an example without any technical term (database, records, blocks, timestamp, network).
 
-In paralel universe, Apple and Samsung has merged into a single company and released a new version of iGalaxy phone. Being a fanboy, you save a place in the queue to be on of 100 persons to buy it.
-
-## So, how does blockchain work?
-
+## Learn from this silly history...
+Little Benjamin has a sweet tooth and really likes icecream. He has been invited to Laura's birthday party and is standing on the queue to have some. Being nauthy, he is planing to have as much icecream he can take.
 
 
