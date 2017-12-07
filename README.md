@@ -36,3 +36,5 @@ See, you and your family have been implementing distributed trust before it was 
 
 ## So, how does blockchain works?
 Comming soon.
+
+YOU CAN FIND THE LATEST (YET IN PROGRESS) TEXT ON DEV BRANCH.
