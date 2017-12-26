@@ -22,9 +22,9 @@ There anwser is TRUST!
 
 As simple as it sounds, trust is the biggest gap when it comes to make business. Think about it: why do we sign contracts? Shouldn't "I give you my word" be enogh? Another example: why do we have banks? Why do we need a centralized institution saying how much cash each one of us has available?
 
-> "Here, take this $50.000,00 dollars' loan. Give me your word that you will pay me back and we are good." said no bank ever.
+> "Here, take this $50.000,00 dollars loan. Give me your word that you will pay me back and we are good." said no bank ever.
 
-At the moment we were forced to create institutions to centralize the trust, it became a physical object, tangible, passive to be corrupted, manipulated and hacked.
+At the moment we were forced to create institutions to centralize trust, it became a physical object, tangible, passive to be corrupted, manipulated and hacked.
 
 Shouldn't trust be decentralized among the parties and become a concept?
 
